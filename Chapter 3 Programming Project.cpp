@@ -16,7 +16,7 @@ int main()
 	sugarCups = 1.5 * cookieRatio;
 	butterCups = 1 * cookieRatio;
 	flourCups = 2.75 * cookieRatio;
-	//outputing results
+	//outputing result
 	std::cout << "\nTo make " << numCookies << " cookies, you will need:\n";
 	std::cout << "Cups of Sugar: " << sugarCups << endl;
 	std::cout << "Cups of Butter: " << butterCups << endl;
