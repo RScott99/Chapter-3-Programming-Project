@@ -8,8 +8,8 @@ int main()
 	//defining variables
 	int timesCompound;
 	double interestRate, principal, interestAmmount, savingsAmmount;
-
-	std::cout << 
+	std::cout << "Enter your principal: ";
+	std::cin >> principal;
 	
 	return 0;
 }
